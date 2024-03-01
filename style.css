@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #a1dce4;
+  background: #ecf3d7;
 }
 .container {
   position: relative;
@@ -50,5 +50,5 @@ body {
   transform: scale(0.99);
 }
 .operator {
-  color: #2f9fff;
+  color: #607a12;
 }
